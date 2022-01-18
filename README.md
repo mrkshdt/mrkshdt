@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hello! I am Markus <img src="https://github.com/mrkshdt/mrkshdt/blob/main/wave.gif?raw=true" width="40px">
 
 
-- 🔭 I’m currently working on <b>an open source tool for explorative time series analysis and multiple fintech tools</b>
+- 🔭 I’m currently working on <b>an open source tool for explorative time series analysis</b>
 - 🌱 I’m currently learning <b>Docker</b>
 - 👯 I’m looking to collaborate on <b>applied AI and data science projects</b>
 - 🤔 I’m looking for help with <b>DevOps and MLOps</b>
