@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 # Hello! I am Markus <img src="https://github.com/mrkshdt/mrkshdt/blob/main/wave.gif?raw=true" width="40px">
 
 
-- 🔭 I’m currently working on <b>"open source tool for explorative time series analysis and some fintech tools"</b>
-- 🌱 I’m currently learning <b>"Docker"</b>
-- 👯 I’m looking to collaborate on <b>" applied AI and data science projects"</b>
-- 🤔 I’m looking for help with <b>"DevOps and MLOps"</b>
-- 💬 Ask me about <b>"time series, requirements engineering for data-driven systems, ML use-cases and finance"</b> 
+- 🔭 I’m currently working on <b>an open source tool for explorative time series analysis and multiple fintech tools</b>
+- 🌱 I’m currently learning <b>Docker</b>
+- 👯 I’m looking to collaborate on <b>applied AI and data science projects</b>
+- 🤔 I’m looking for help with <b>DevOps and MLOps</b>
+- 💬 Ask me about <b>time series, requirements engineering for data-driven systems, ML use-cases and finance</b> 
 
 ### Stats
 
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 👔 [linkedin][linkedin] **|**
 
 
-[instagram]:  https://www.linkedin.com/in/markus-heidt/
+[linkedin]:  https://www.linkedin.com/in/markus-heidt/
 
 
