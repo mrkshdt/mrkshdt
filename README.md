@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hello! I am Markus <img src="https://github.com/mrkshdt/mrkshdt/blob/main/wave.gif?raw=true" width="40px">
+
+
+- 🔭 I’m currently working on <b>"open source tool for explorative time series analysis and some fintech tools"</b>
+- 🌱 I’m currently learning <b>"Docker"</b>
+- 👯 I’m looking to collaborate on <b>" applied AI and data science projects"</b>
+- 🤔 I’m looking for help with <b>"DevOps and MLOps"</b>
+- 💬 Ask me about <b>"time series, requirements engineering for data-driven systems, ML use-cases and finance"</b> 
+
+### Stats
+
+<a href="https://github.com/mrkshdt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkshdt&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/mrkshdt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkshdt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+
+</a>    
+
+
+### External Links to find me
+
+
+👔 [linkedin][linkedin] **|**
+
+
+[instagram]:  https://www.linkedin.com/in/markus-heidt/
+
+
