@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on <b>time series forecasting for supply chain optimization</b>
-- 👯 I’m looking to collaborate on <b>applied AI and data science projects</b> and <b>connect with like-minded people</b>
-- 💬 Ask me about <b>software engineering, statistics, time series, data-driven systems</b> 
+- 👯 We are hiring <b>Frontend Engineers</b>, <b>Backend Engineers</b> and <b>Data Engineers</b> @ Crateflow
 
 
 ### Examples
