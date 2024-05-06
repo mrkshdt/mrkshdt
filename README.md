@@ -21,17 +21,8 @@ Here are some ideas to get you started:
 - 👯 We are hiring <b>Frontend Engineers</b>, <b>Backend Engineers</b> and <b>Data Engineers</b> @ Crateflow
 
 
-### Examples
 
-<img src="https://github.com/mrkshdt/mrkshdt/blob/main/TSLounge_pattern.gif?raw=true">  
-
-
-
-<img src="https://github.com/mrkshdt/mrkshdt/blob/main/MCSim_fin.gif?raw=true">  
-
-
-
-### External Links to find me
+### Find me
 
 
 👔 [linkedin][linkedin] 
