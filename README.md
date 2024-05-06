@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on <b>time series forecasting for supply chain optimization</b>
-- 👯 We are hiring <b>Frontend Engineers</b>, <b>Backend Engineers</b> and <b>Data Engineers</b> @ Crateflow
+- 👯 We are hiring <ins><b>Frontend Engineers</b></ins>, <ins><b>Backend Engineers</b></ins> and <ins><b>Data Engineers</b></ins> @ Crateflow
 
 
 
