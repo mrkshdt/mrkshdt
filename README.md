@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hello! I am Markus <img src="https://github.com/mrkshdt/mrkshdt/blob/main/wave.gif?raw=true" width="40px">
 
 
-- 👯 We are hiring <ins><b>Frontend Engineers</b></ins>, <ins><b>Backend Engineers</b></ins> and <ins><b>Data Engineers</b></ins> @ Crateflow
+- 👯 We are hiring <ins><b>Software Engineers</b></ins> and <ins><b>ML Engineers</b></ins> @ Crateflow
 
 
 
